@@ -1,0 +1,15 @@
+{
+  "name": "003-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ben Fhala <ben@02geek.com>",
+  "license": "ISC",
+  "dependencies": {
+    "isarray": "^1.0.0"
+  }
+}
